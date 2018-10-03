@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pg": "^7.4.3",
+    "telegraf": "^3.24.0"
+  }
+}
